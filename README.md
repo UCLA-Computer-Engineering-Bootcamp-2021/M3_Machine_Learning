@@ -1,4 +1,4 @@
-# M4. Machine Learning & Artificial Intelligence
+# M3. Machine Learning & Artificial Intelligence
 
 Program Date: September 1
 
