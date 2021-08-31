@@ -12,7 +12,7 @@ Session A [**Daniel Ahn**, Shurui Li]
 
 * 10:00am - 10:55am: Deep Learning
 * 10:55am - 11:00am: Break
-* 11:00am - 12:30pm: Coding Workshop
+* 11:00am - 12:00pm: Coding Workshop
 
 Session B [**Shurui Li**, Daniel Ahn]
 
